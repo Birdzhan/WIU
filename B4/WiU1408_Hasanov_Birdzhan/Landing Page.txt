@@ -1,17 +1,3 @@
-https://usabilityhub.com/do/8a404bc46522/8844   - B2 Link for public/ twitter/facebook
+https://github.com/Birdzhan/WIU/tree/gh-pages
 
-https://usabilityhub.com/tests/8a404bc46522/results/d746c8a5ad42   - B2 Test Results Link
-
-
-
-https://usabilityhub.com/do/698420036e0d/81dc  — B3 Public
-
-https://usabilityhub.com/tests/698420036e0d/results/d1bd306dd892  —B3 results
-
-
-
-https://usabilityhub.com/do/2d4e8502ecc4/87b5   -  B4 Public
-
-
-
-https://usabilityhub.com/tests/2d4e8502ecc4/results/b2a183609df6  — B4 Results
+https://github.com/Birdzhan/WIU/tree/gh-pages/B4
